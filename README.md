@@ -38,7 +38,7 @@ Run the migration and seeder to populate the database with dummy data:
 php artisan migrate --seed
 ```
 
-In order to copmlete this task, you will need to create or modify relevant files in this project. You can determine the best approach to structure your code, JSON and any other files in order to achieve the stated goals and demonstrate your understanding of the Laravel framework.
+In order to complete this task, you will need to create or modify relevant files in this project. You can determine the best approach to structure your code, JSON and any other files in order to achieve the stated goals and demonstrate your understanding of the Laravel framework.
 
 ## **Additional Notes**
 
