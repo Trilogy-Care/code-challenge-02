@@ -8,7 +8,7 @@ The goal of this task is to demonstrate your ability to work with Laravel by bui
 ## **Requirements**
 
 1. **Create a Command to Assign Bills**:
-   - Implement a Laravel command that assigns unassigned bills in the `submitted` stage to a user.
+   - Implement a Laravel command that assigns all unassigned bills in the `submitted` stage to all users.
    - Ensure that no user is assigned more than 3 bills at any given time.
 
 2. **Design VueJS Page**:
